@@ -1,0 +1,3 @@
+flows:
+  default:
+    - log: "hey from public github"
